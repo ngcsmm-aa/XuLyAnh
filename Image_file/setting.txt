@@ -1,0 +1,10 @@
+tree
+sin 100
+double 70-120
+coins
+sin 100
+double 90-160
+paper
+-
+-
+	size 7 C 2
